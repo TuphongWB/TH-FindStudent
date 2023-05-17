@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH-FindStudent", "TH-FindStudent\TH-FindStudent.csproj", "{54F5825B-E293-4F66-B097-1B4E0D2DEE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F5825B-E293-4F66-B097-1B4E0D2DEE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F5825B-E293-4F66-B097-1B4E0D2DEE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F5825B-E293-4F66-B097-1B4E0D2DEE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F5825B-E293-4F66-B097-1B4E0D2DEE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230D70B9-4D2D-4924-A2AB-024A669FA31B}
+	EndGlobalSection
+EndGlobal
